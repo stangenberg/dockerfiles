@@ -1,0 +1,21 @@
+[submodule "docker-data"]
+	path = docker-data
+	url = git@github.com:stangenberg/docker-data.git
+[submodule "docker-template"]
+	path = docker-template
+	url = git@github.com:stangenberg/docker-template.git
+[submodule "docker-nexus"]
+	path = docker-nexus
+	url = git@github.com:stangenberg/docker-nexus.git
+[submodule "docker-baseimage"]
+	path = docker-baseimage
+	url = git@github.com:stangenberg/docker-baseimage.git
+[submodule "docker-java"]
+	path = docker-java
+	url = git@github.com:stangenberg/docker-java.git
+[submodule "docker-scala"]
+	path = docker-scala
+	url = git@github.com:stangenberg/docker-scala.git
+[submodule "docker-c9-workspace"]
+	path = docker-c9-workspace
+	url = git@github.com:stangenberg/docker-c9-workspace.git
