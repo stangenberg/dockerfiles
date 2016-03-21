@@ -19,3 +19,6 @@
 [submodule "docker-c9-workspace"]
 	path = docker-c9-workspace
 	url = git@github.com:stangenberg/docker-c9-workspace.git
+[submodule "docker-docker"]
+	path = docker-docker
+	url = git@github.com:stangenberg/docker-docker.git
